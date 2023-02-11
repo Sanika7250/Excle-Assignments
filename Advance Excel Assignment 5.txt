@@ -1,0 +1,47 @@
+
+
+
+1. How many types of conditions are available in conditional formatting on Excel?
+ANS - There are 5 types of conditional formatting visualizations available:
+            1.Background Color Shading (of cells)
+            2.Foreground Color Shading (of fonts)
+            3.Data Bars
+            4.Icons (which have 4 different image types)
+            5.Values
+
+2. How to insert border in Excel with Format Cells dialog?
+ANS -  To insert a border via the Format Cells dialog, 
+            1.Select one or more cells to which you'd like to add borders.
+            2.Open the Format Cells dialog box by doing one of the following:
+                Click the down arrow next to the Borders button, and then click More Borders at the bottom of the drop-down list.
+                Right click the selected cells and choose Format Cells… from the context menu.
+                Press Ctrl+1 shortcut.
+
+3.How to Format Numbers as Currency in Excel?
+ANS -   Format numbers as currency in Excel for the web
+            1.Select the cells that you want to format and then, in the Number group on the Home tab, click the down arrow in the Number Format box.
+            2.Choose either Currency or Accounting.
+
+4. What are the steps to format numbers in Excel with the Percent style?
+ANS -   To quickly apply percentage formatting to selected cells, click Percent Style Button image in the Number group on the Home tab, or press Ctrl+Shift+%. If you want more control over the format, or you want to change other aspects of formatting for your selection, you can follow these steps.
+            1.On the Home tab, in the Number group, click the icon next to Number to display the Format Cells dialog box.
+	    2.In the Format Cells dialog box, in the Category list, click Percentage.
+            3.In the Decimal places box, enter the number of decimal places that you want to display. For example, if you want to see 10% instead of 10.00%, enter 0 in the Decimal places box.
+
+5.What is a shortcut to merge two or more cells in excel?
+ANS-Excel Shortcuts for Windows
+            Merge Cells: ALT H+M+M. 
+            Merge & Center: ALT H+M+C.
+            Merge Across: ALT H+M+A. 
+            Unmerge Cells: ALT H+M+U.
+
+6.How do you use text commands in Excel?
+ANS -Text commands in Excel
+            1.Len () Len function in Excel helps you to know the length of a string that is number of characters in a string. ...
+	    2.Mid () Mid function in Excel is used to extract the characters from the middle of a string. ...
+            3.Find ()
+            4.Proper () 
+            5.Rept () 
+            6.Trim() 
+            7.Upper() 
+            8.Substitute ()
